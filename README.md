@@ -25,6 +25,7 @@ Clonando o projeto:
 > cd pocInvillia
 > yarn install
 > yarn start
+```
 
 ## Dependências
 
@@ -38,4 +39,3 @@ Clonando o projeto:
 ## API Google
 
 Na pasta /src/services/, no arquivo api.js, contém a key do Google Search Custom que pode ser necessário gerar outra em, https://developers.google.com/custom-search/v1/overview. Isso pois a versão free tem limite de consultas.
-```
