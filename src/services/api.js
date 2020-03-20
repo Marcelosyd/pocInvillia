@@ -1,0 +1,2 @@
+export const GOOGLE_SCE_API_KEY = "AIzaSyBKF-POHqy5NB1rNRbVCavWoKXT92o_cos";
+export const GOOGLE_SCE_CX_KEY = "011296807237285395404:co6swimhya7";
